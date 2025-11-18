@@ -6,6 +6,8 @@ implemented with the Python library graphviz
 ## Usage instructions
 
 ```bash
+git clone https://github.com/ESI-FAR/tesops-flowchart-graphviz.git
+cd tesops-flowchart-graphviz.git
 pip install -r requirements.txt
 python3 -u www/app.py
 ```
