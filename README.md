@@ -11,6 +11,8 @@ python3 -u www/app.py
 ```
 
 Then access the app by pointing your web browser to: http://localhost:8000/
+and build a graph by creating edges. The mathematical functions representing
+the graph will be shown under it.
 
 ## Screendump
 
